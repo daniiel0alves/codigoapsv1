@@ -1,0 +1,26 @@
+.menu__lista{
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    padding: 0;
+}
+
+.traco {
+    font-weight: 700;
+}
+
+.menu__lista li{
+    display: inline;
+}
+
+.menu__lista li a{
+    color: var(--charcoal);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.menu__lista li a:hover {
+    text-decoration: underline;
+}
