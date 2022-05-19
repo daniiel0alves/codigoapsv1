@@ -1,0 +1,14 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="reset.css">
+    </head>
+    <body class="corpo">
+        <header class="cabecalho">
+            <img class="logo" src="logoaps.png" alt="">
+            <h1 class="tituloprojeto">PROJETO</h1>
+        </header>
+    </body>
+</html>
