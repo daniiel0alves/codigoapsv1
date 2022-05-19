@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="pt-BR">
+    <head>
+
+        <meta charset="UTF-8">
+
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;700&display=swap" rel="stylesheet">
+
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="css/menu.css">
+        <link rel="stylesheet" href="css/projeto.css">
+        <link rel="stylesheet" href="css/noticias.css">
+    </head>
+
+    <body class="corpo">
+        <header class="cabecalho">
+            <div class="logo">
+                <img src="img/logoaps.png" alt="">
+            </div>
+        <nav  class="menu">
+            <ul class="menu__lista">
+                <li class="menu__lista__item"><a href="home.html">Início</a></li>
+                <li class="traco">|</li>
+                <li><a class="menu__link" href="projeto.html">Projeto</a></li>
+                <li>|</li>
+                <li><a href="noticias.html">Notícias</a></li>
+                <li>|</li>
+                <li><a href="sobrenos.html">Sobre Nós </a></li>
+            </ul>
+        </nav>    
+        </header>
+
+        <main>
+        
+            <div class="projeto">
+            <img class="imgprojeto" src="img/Projeto.png" alt="">
+    
+            <h1 class="titprojeto">O Projeto</h1>
+            <p class="desprojeto">Sed tempore dolores quo natus quos ad beatae dicta et cupiditate ipsum aut dolores voluptate nam alias voluptas eos quia quia. 33 iste neque et deserunt nihil aut blanditiis maxime ut omnis consequatur est sapiente dicta et harum incidunt eos consequatur quibusdam. Ad exercitationem voluptatem in possimus voluptatem vel voluptatibus doloremque et fugit rerum ipsa eius. Id nihil modi ea autem voluptatum ut architecto natus non perferendis maxime est rerum fugit et autem mollitia?</p>
+            </div>
+            
+            <div>
+                <h1 class="titnoticias">Notícias</h1>
+
+                <hr class="linha">
+
+            </div>
+
+        </main>
+
+    </body>
+
+
+</html>
