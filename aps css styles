@@ -1,0 +1,56 @@
+:root {
+    --gainboro: #D8DBE2;
+    --lightSteelBlue: #A9BCD0;
+    --lightSteelBlueRgba: #A9BCD058;
+    --cadetBlue: #58A4B0;
+    --charcoal: #373F51;
+    color: #373F51;
+}
+
+*{
+    box-sizing: border-box;
+    text-decoration-color: var(--charcoal);
+    font-family: 'Roboto', sans-serif;
+}
+
+.cabecalho {
+    background-color: var(--lightSteelBlueRgba);
+    padding-bottom: 1rem;
+    
+}
+
+.corpo {
+    background-color: var(--gainboro);
+    text-align: center;
+}
+
+.logo {
+    text-align: center;
+}
+
+
+.projeto {
+    margin: 15px;
+    border: 5px solid var(--cadetBlue);
+    border-radius: 10px;
+}
+
+.imgprojeto {
+    border-radius: 150px;
+    width: 54%;
+    margin: 40px 0 40px 0;
+    position: relative;
+}
+
+.titprojeto {
+    font-size: 32px;
+    font-weight: bold;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+}
+
+.desprojeto {
+    text-align: center;
+    padding-bottom: 20px;
+}
+
